@@ -1,0 +1,19 @@
+Java 
+-------------------
+JVM + libraries = JRE
+JRE + Development tools = JDK
+where : 
+    JVM = java virtual machine 
+    JRE = Java Runtime Environment 
+    JDK = Java development kit
+
+A java source code (.java) can be converted into byte code (.class) 
+using the Java compiler. 
+Byte code can then be run on any machine as long as it has a JRE
+(eg: code written in windows can be runned on linux, Mac, etc)
+
+In any other machine, The JVM can then convert that byte code 
+into native code 
+
+Class is a large entity in Java, which can house many fucntions
+(Class = kitchen and functions = utencils ...maybe ...idk)
